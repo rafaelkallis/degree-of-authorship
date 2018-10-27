@@ -1,0 +1,13 @@
+{
+  "name": "degree-of-authorship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafaelkallis/degree-of-authorship",
+  "author": "Rafael Kallis <rk@rafaelkallis.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "git-raw-commits": "^2.0.0"
+  }
+}
