@@ -2,6 +2,7 @@
   "name": "degree-of-authorship",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": "cli.js",
   "repository": "https://github.com/rafaelkallis/degree-of-authorship",
   "author": "Rafael Kallis <rk@rafaelkallis.com>",
   "license": "MIT",
